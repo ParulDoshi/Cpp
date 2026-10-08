@@ -1,0 +1,8 @@
+{*,/,%}>>{+,-}
+FOR Same bracket use Associtivity- Left to Right
+
+Uniary Operators
+Post Increment - a++
+Pre Increment - ++a
+Post Decrement - a--
+Pre Decrement - --a
