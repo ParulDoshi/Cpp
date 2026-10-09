@@ -6,3 +6,23 @@ Post Increment - a++
 Pre Increment - ++a
 Post Decrement - a--
 Pre Decrement - --a
+
+{>,<,>=,<=} > {== , !=}
+FOR Same bracket use Associtivity- Left to Right
+> - greater than 
+< - less than 
+
+LOGICAL OPERATOR
+{&&,||,!}
+&& - AND 
+|| - OR
+! - NOT
+
+BITWISE OPERATOR
+{ & , | , ^ , ~ , << , >>}
+&- Bitwise and 
+| - Bitwise OR
+^ - Bitwise exclusive OR
+~ - complement/Not
+<< - Left Shift 
+>> - Roght Shift
